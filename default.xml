@@ -265,7 +265,7 @@
   <project path="packages/apps/KeyChain" remote="cm" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/LockClock" remote="cm" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/ManagedProvisioning" remote="cm" name="CyanogenMod/android_packages_apps_ManagedProvisioning" />
-  <project path="packages/apps/Mms" remote="cm" name="CyanogenMod/android_packages_apps_Mms-caf" />
+  <!-- <project path="packages/apps/Mms" remote="cm" name="CyanogenMod/android_packages_apps_Mms-caf" /> -->
   <project path="packages/apps/Nfc" remote="cm" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
   <project path="packages/apps/PackageInstaller" remote="cm" name="CyanogenMod/android_packages_apps_PackageInstaller" />
