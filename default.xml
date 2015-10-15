@@ -3,10 +3,7 @@
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
-           review="android-review.googlesource.com"
-           revision="refs/tags/android-6.0.0_r1"
-           sync-c="true"
-           sync-j="8" />
+           review="android-review.googlesource.com" />
 
   <remote  name="aokp"
            revision="mm"
@@ -41,13 +38,13 @@
 
   <remote  name="github"
            fetch=".."
-           review="review.cyanogenmod.org" />
+           review="gerrit.aokp.co" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="mm"
-           remote="aokp"
+  <default revision="refs/tags/android-6.0.0_r1"
+           remote="aosp"
            sync-c="true"
            sync-j="8" />
 
@@ -327,7 +324,7 @@
   <project path="system/vold" remote="cm" name="CyanogenMod/android_system_vold" groups="pdk" />
 
   <!-- Vendor Packages -->
-  <project path="vendor/aokp" name="A0KP/vendor_aokp" />
+  <project path="vendor/aokp" name="A0KP/vendor_aokp" remote="aokp" />
   <project path="vendor/cmsdk" name="A0KP/cm_platform_sdk" remote="aokp" />
   <project path="vendor/qcom/opensource/display-frameworks" remote="cm" name="CyanogenMod/android_vendor_qcom_opensource_display-frameworks" />
   <project path="vendor/qcom/opensource/dpm" remote="cm" name="CyanogenMod/android_vendor_qcom_opensource_dpm" />
