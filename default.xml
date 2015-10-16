@@ -49,10 +49,10 @@
            sync-j="8" />
 
   <!-- AOKP Manifest -->
-  <project path="platform_manifest" name="A0KP/platform_manifest" remote="aokp" />
+  <project path="platform_manifest" name="MarshMallowKang/platform_manifest" remote="aokp" />
 
   <!-- AOKP Build -->
-  <project path="build" name="A0KP/build" groups="pdk,tradefed" remote="aokp" >
+  <project path="build" name="MarshMallowKang/build" groups="pdk,tradefed" remote="aokp" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
@@ -161,8 +161,8 @@
   <project path="external/wpa_supplicant_8" remote="cm" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/zip" remote="cm" name="CyanogenMod/android_external_zip" />
   <project path="external/zlib" remote="cm" name="CyanogenMod/android_external_zlib" groups="pdk" />
-  <project path="frameworks/av" name="A0KP/frameworks_av" groups="pdk" remote="aokp" />
-  <project path="frameworks/base" name="A0KP/frameworks_base" remote="aokp" />
+  <project path="frameworks/av" name="MarshMallowKang/frameworks_av" groups="pdk" remote="aokp" />
+  <project path="frameworks/base" name="MarshMallowKang/frameworks_base" remote="aokp" />
   <project path="frameworks/compile/libbcc" remote="cm" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" remote="cm" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" remote="cm" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
@@ -272,9 +272,9 @@
   <project path="packages/apps/Profiles" remote="cm" name="CyanogenMod/android_packages_apps_Profiles" />
   <project path="packages/apps/Provision" remote="cm" name="CyanogenMod/android_packages_apps_Provision" />
   <!--
-  <project path="packages/apps/ROMControl" name="A0KP/packages_apps_ROMControl" remote="aokp" />
+  <project path="packages/apps/ROMControl" name="MarshMallowKang/packages_apps_ROMControl" remote="aokp" />
   -->
-  <project path="packages/apps/Settings" name="A0KP/packages_apps_Settings" remote="aokp" />
+  <project path="packages/apps/Settings" name="MarshMallowKang/packages_apps_Settings" remote="aokp" />
   <project path="packages/apps/SetupWizard" remote="cm" name="CyanogenMod/android_packages_apps_SetupWizard" />
   <project path="packages/apps/SmartCardService" remote="cm" name="CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" remote="cm" name="CyanogenMod/android_packages_apps_SoundRecorder" />
@@ -324,8 +324,8 @@
   <project path="system/vold" remote="cm" name="CyanogenMod/android_system_vold" groups="pdk" />
 
   <!-- Vendor Packages -->
-  <project path="vendor/aokp" name="A0KP/vendor_aokp" remote="aokp" />
-  <project path="vendor/cmsdk" name="A0KP/cm_platform_sdk" remote="aokp" />
+  <project path="vendor/aokp" name="MarshMallowKang/vendor_aokp" remote="aokp" />
+  <project path="vendor/cmsdk" name="MarshMallowKang/cm_platform_sdk" remote="aokp" />
   <project path="vendor/qcom/opensource/display-frameworks" remote="cm" name="CyanogenMod/android_vendor_qcom_opensource_display-frameworks" />
   <project path="vendor/qcom/opensource/dpm" remote="cm" name="CyanogenMod/android_vendor_qcom_opensource_dpm" />
   <project path="vendor/qcom/opensource/time-services" remote="cm" name="CyanogenMod/android_vendor_qcom_opensource_time-services" />
