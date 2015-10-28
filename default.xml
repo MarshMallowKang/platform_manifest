@@ -286,7 +286,7 @@
   <project path="packages/apps/Stk" remote="cm" name="CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" remote="cm" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Terminal" remote="cm" name="CyanogenMod/android_packages_apps_Terminal" />
-  <!-- <project path="packages/apps/ThemeChooser" remote="cm" name="CyanogenMod/android_packages_apps_ThemeChooser" /> -->
+  <project path="packages/apps/ThemeChooser" remote="cm" name="CyanogenMod/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Trebuchet" remote="cm" name="CyanogenMod/android_packages_apps_Trebuchet" />
   <project path="packages/apps/TvSettings" remote="cm" name="CyanogenMod/android_packages_apps_TvSettings" />
   <project path="packages/apps/UnifiedEmail" remote="cm" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
@@ -299,7 +299,7 @@
   <project path="packages/providers/MediaProvider" remote="cm" name="CyanogenMod/android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" remote="cm" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" remote="cm" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
-  <!-- <project path="packages/providers/ThemesProvider" remote="cm" name="CyanogenMod/android_packages_providers_ThemesProvider" /> -->
+  <project path="packages/providers/ThemesProvider" remote="cm" name="CyanogenMod/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/TvProvider" remote="cm" name="CyanogenMod/android_packages_providers_TvProvider" />
   <project path="packages/providers/UserDictionaryProvider" remote="cm" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
   <project path="packages/screensavers/Basic" remote="cm" name="CyanogenMod/android_packages_screensavers_Basic" />
