@@ -268,7 +268,7 @@
   <project path="packages/apps/KeyChain" remote="cm" name="CyanogenMod/android_packages_apps_KeyChain" groups="pdk-fs" />
   <project path="packages/apps/LockClock" remote="cm" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/ManagedProvisioning" remote="cm" name="CyanogenMod/android_packages_apps_ManagedProvisioning" groups="pdk-fs" />
-  <project path="packages/apps/Mms" remote="cm" name="CyanogenMod/android_packages_apps_Mms-caf" />
+  <project path="packages/apps/Messaging" remote="cm" name="CyanogenMod/android_packages_apps_Messaging" />
   <project path="packages/apps/Nfc" remote="cm" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" remote="cm" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/PhoneCommon" remote="cm" name="CyanogenMod/android_packages_apps_PhoneCommon" />
