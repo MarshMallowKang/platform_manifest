@@ -156,6 +156,7 @@
   <project path="external/tinyalsa" remote="cm" name="CyanogenMod/android_external_tinyalsa" groups="pdk" />
   <project path="external/tinycompress" remote="cm" name="CyanogenMod/android_external_tinycompress" groups="pdk" />
   <project path="external/tinyxml2" remote="cm" name="CyanogenMod/android_external_tinyxml2" groups="pdk" />
+  <project path="external/toybox" remote="cm" name="CyanogenMod/android_external_toybox" groups="pdk" />
   <project path="external/unrar" remote="cm" name="CyanogenMod/android_external_unrar" />
   <project path="external/vim" remote="cm" name="CyanogenMod/android_external_vim" />
   <project path="external/wpa_supplicant_8" remote="cm" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />
@@ -498,7 +499,6 @@
   <project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" />
-  <project path="external/toybox" name="platform/external/toybox" groups="pdk" remote="aosp" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" remote="aosp" />
   <project path="external/v8" name="platform/external/v8" groups="pdk" remote="aosp" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" remote="aosp" />
