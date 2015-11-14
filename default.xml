@@ -141,6 +141,7 @@
   <project path="external/ntfs-3g" remote="cm" name="CyanogenMod/android_external_ntfs-3g" />
   <project path="external/okhttp" remote="cm" name="CyanogenMod/android_external_okhttp" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/openssh" remote="cm" name="CyanogenMod/android_external_openssh" groups="pdk-cw-fs,pdk-fs" />
+  <project path="external/p7zip" remote="cm" name="CyanogenMod/android_external_p7zip" />
   <project path="external/pcre" remote="cm" name="CyanogenMod/android_external_pcre" groups="pdk" />
   <project path="external/pigz" remote="cm" name="CyanogenMod/android_external_pigz" />
   <project path="external/powertop" remote="cm" name="CyanogenMod/android_external_powertop" />
@@ -160,6 +161,7 @@
   <project path="external/tinyxml2" remote="cm" name="CyanogenMod/android_external_tinyxml2" groups="pdk" />
   <project path="external/toybox" remote="cm" name="CyanogenMod/android_external_toybox" groups="pdk" />
   <project path="external/unrar" remote="cm" name="CyanogenMod/android_external_unrar" />
+  <project path="external/unzip" remote="cm" name="CyanogenMod/android_external_unzip" />
   <project path="external/vim" remote="cm" name="CyanogenMod/android_external_vim" />
   <project path="external/wpa_supplicant_8" remote="cm" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/yaffs2" remote="cm" name="CyanogenMod/android_external_yaffs2" groups="pdk" />
