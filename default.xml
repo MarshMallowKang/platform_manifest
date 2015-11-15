@@ -130,7 +130,6 @@
   <project path="external/libxslt" remote="cm" name="CyanogenMod/android_external_libxslt" />
   <project path="external/linux-tools-perf" remote="cm" name="CyanogenMod/android_external_linux-tools-perf" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libtruezip" remote="cm" name="CyanogenMod/android_external_libtruezip" />
-  <project path="external/lsof" remote="cm" name="CyanogenMod/android_external_lsof" />
   <project path="external/lz4" remote="cm" name="CyanogenMod/android_external_lz4" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/lzma" remote="cm" name="CyanogenMod/android_external_lzma" groups="pdk" />
   <project path="external/lzo" remote="cm" name="CyanogenMod/android_external_lzo" />
