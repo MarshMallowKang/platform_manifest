@@ -235,6 +235,7 @@
   <project path="hardware/qcom/media-caf/msm8960" remote="cm" name="CyanogenMod/android_hardware_qcom_media" groups="qcom" revision="cm-13.0-caf-8960" />
   <project path="hardware/qcom/media-caf/msm8974" remote="cm" name="CyanogenMod/android_hardware_qcom_media" groups="qcom" revision="cm-13.0-caf-8974" />
   <project path="hardware/qcom/media-caf/msm8994" remote="cm" name="CyanogenMod/android_hardware_qcom_media" groups="qcom" revision="cm-13.0-caf-8994" />
+  <project path="hardware/qcom/fm" remote="cm" name="Cyanogenmod/android_hardware_qcom_fm" groups="qcom,qcom_fm" />
   <project path="hardware/qcom/wlan" remote="cm" name="CyanogenMod/android_hardware_qcom_wlan" groups="qcom_wlan" />
   <project path="hardware/qcom/wlan-caf" remote="cm" name="CyanogenMod/android_hardware_qcom_wlan" groups="qcom_wlan" revision="cm-13.0-caf" />
   <project path="hardware/ril" remote="cm" name="CyanogenMod/android_hardware_ril" groups="pdk" />
