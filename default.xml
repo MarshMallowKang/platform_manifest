@@ -146,7 +146,7 @@
   <project path="external/powertop" remote="cm" name="CyanogenMod/android_external_powertop" />
   <project path="external/protobuf-c" remote="cm" name="CyanogenMod/android_external_protobuf-c" />
   <project path="external/rsync" remote="cm" name="CyanogenMod/android_external_rsync" />
-  <project path="external/sepolicy" remote="cm" name="CyanogenMod/android_external_sepolicy" groups="pdk" />
+  <project path="external/sepolicy" remote="aokp" name="MarshMallowKang/external_sepolicy" groups="pdk" />
   <project path="external/skia" remote="cm" name="CyanogenMod/android_external_skia" groups="pdk,qcom_msm8x26" />
   <project path="external/sonivox" remote="cm" name="CyanogenMod/android_external_sonivox" groups="pdk" />
   <project path="external/speex" remote="cm" name="CyanogenMod/android_external_speex" groups="pdk" />
