@@ -108,6 +108,7 @@
   <project path="external/iproute2" remote="cm" name="CyanogenMod/android_external_iproute2" groups="pdk" />
   <project path="external/iptables" remote="cm" name="CyanogenMod/android_external_iptables" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/jarjar" remote="cm" name="CyanogenMod/android_external_jarjar" groups="pdk" />
+  <project path="external/jbirdvegas/mGerrit" name="MarshMallowKang/external_jbirdvegas_mGerrit" remote="aokp" />
   <project path="external/jpeg" remote="cm" name="CyanogenMod/android_external_jpeg" groups="pdk" />
   <project path="external/jsr305" remote="cm" name="CyanogenMod/android_external_jsr305" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/koush/AndroidAsync" remote="cm" name="CyanogenMod/AndroidAsync" />
