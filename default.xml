@@ -181,6 +181,7 @@
   <project path="frameworks/opt/bluetooth" remote="cm" name="CyanogenMod/android_frameworks_opt_bluetooth" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/calendar" remote="cm" name="CyanogenMod/android_frameworks_opt_calendar" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/carddav" remote="cm" name="CyanogenMod/android_frameworks_opt_carddav" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/opt/cards" remote="aokp" name="MarshMallowKang/frameworks_opt_cards" groups="pdk" />
   <project path="frameworks/opt/chips" remote="cm" name="CyanogenMod/android_frameworks_opt_chips" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/colorpicker" remote="cm" name="CyanogenMod/android_frameworks_opt_colorpicker" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/datetimepicker" remote="cm" name="CyanogenMod/android_frameworks_opt_datetimepicker" groups="pdk-cw-fs,pdk-fs" />
