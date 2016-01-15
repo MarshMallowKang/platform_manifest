@@ -159,6 +159,7 @@
   <project path="external/tinycompress" remote="cm" name="CyanogenMod/android_external_tinycompress" groups="pdk" />
   <project path="external/tinyxml2" remote="cm" name="CyanogenMod/android_external_tinyxml2" groups="pdk" />
   <project path="external/toybox" remote="cm" name="CyanogenMod/android_external_toybox" groups="pdk" />
+  <project path="external/uicommon" remote="cm" name="CyanogenMod/android_external_cyanogen_UICommon" />
   <project path="external/unrar" remote="cm" name="CyanogenMod/android_external_unrar" />
   <project path="external/unzip" remote="cm" name="CyanogenMod/android_external_unzip" />
   <project path="external/vim" remote="cm" name="CyanogenMod/android_external_vim" />
